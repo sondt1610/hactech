@@ -651,3 +651,14 @@ li a{
     border-bottom: 1px dashed #CCCCCC;
     width: 510px;
 }
+/*scroll_image*/
+#scroll_image{
+    position: relative;
+    margin-top: 20px;
+    width: 1000px;
+}
+#scroll_image img{
+    width: 225px;
+    height: 155px;
+    margin-right: 20px;
+}
